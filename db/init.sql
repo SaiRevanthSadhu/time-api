@@ -1,0 +1,8 @@
+CREATE DATABASE IF NOT EXISTS time_tracker;
+
+USE time_tracker;
+
+CREATE TABLE IF NOT EXISTS time_log (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    timestamp DATETIME NOT NULL
+);

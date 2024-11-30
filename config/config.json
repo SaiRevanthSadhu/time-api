@@ -1,0 +1,8 @@
+{
+    "db_user": "root",
+    "db_password": "yourpassword",
+    "db_name": "time_tracker",
+    "db_host": "db",
+    "db_port": "3306"
+  }
+  
